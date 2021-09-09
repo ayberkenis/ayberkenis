@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayberkenis
 - 👀 I’m interested in Python Web Apps, Discord Bots and many more
-- 🌱 I’m currently learning Java, Kotlin, Swift
+- 🌱 I’m looking forward to learn Ruby, Swift and Java
 - 📫 You can reach me by mail: ayberkenis@gmail.com
 
 <!---
