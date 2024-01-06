@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ayberk Enis!
 
-I'm a Full Stack Web Developer specializing in frontend technologies, currently bringing creative web solutions to life at [Gardrops.com](https://gardrops.com). With a passion for crafting responsive and dynamic user experiences, I leverage a broad stack of technologies to deliver top-notch applications.
+I'm a Full Stack Web Developer specializing in frontend technologies. With a passion for crafting responsive and dynamic user experiences, I leverage a broad stack of technologies to deliver top-notch applications.
 
 ## 🚀 About Me
 
-- **Frontend Developer at Gardrops.com:** I'm part of a dynamic team where I contribute to building modern and stylish web applications.
+
 - **Tech Stack Enthusiast:** Proficient in TypeScript, JavaScript, React, Next.js, and TailwindCSS. I'm also skilled in backend technologies like PHP, Python, Flask, and Django.
 - **Lifelong Learner:** Currently on a journey to expand my knowledge in Ruby, Swift, and Java.
 
@@ -29,7 +29,7 @@ I'm a Full Stack Web Developer specializing in frontend technologies, currently 
 
 ## 💼 Experience
 
-### Currently working as a Frontend Developer at Gardrops.com
+### Nov 2023 - Jan 2024 => Senior Frontend Developer at Gardrops.com
 
 
 ## 📫 How to Reach Me
