@@ -30,6 +30,7 @@ I'm a Full Stack Web Developer specializing in frontend technologies. With a pas
 ## 💼 Experience
 
 ### Nov 2023 - Jan 2024 => Senior Frontend Developer at Gardrops.com
+### Jan 2024 - Present => Senior Full Stack Developer at RSS Interactive 
 
 
 ## 📫 How to Reach Me
